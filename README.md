@@ -2,10 +2,6 @@
 
 ## References
 
-### Advanced RAG Eval
-
-https://github.com/langchain-ai/langchain/blob/master/cookbook/advanced_rag_eval.ipynb
-
 ### Semi-structured RAG
 
 https://github.com/langchain-ai/langchain/blob/master/cookbook/Semi_Structured_RAG.ipynb
