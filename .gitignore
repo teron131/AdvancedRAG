@@ -3,5 +3,5 @@
 *.jpg
 *.txt
 *.log
-*.bin
-*.sqlite3
+text_vectorstore
+text_docstore
